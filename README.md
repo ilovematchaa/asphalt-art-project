@@ -26,7 +26,7 @@ This project was created on Code.org's JavaLab platform using the built-in Neigh
 
 1. Describe your project.
 
-   I decided to creat an image of a heart but with a spiderman face on the inside.
+   I decided to create an image of a heart but with a spiderman face on the inside.
 
 2. What are two things about your project that you are proud of?
 
@@ -34,4 +34,4 @@ I am most proud of just completing the art with no problems. I also am proud tha
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
-   Something I would of changed is maybe asking more questions on what I can do to mmake it less lines of code.
+   Something I would of changed is maybe asking more questions on what I can do to make it less lines of code.
